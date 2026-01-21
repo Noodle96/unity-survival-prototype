@@ -26,3 +26,16 @@ UserSettings/
 # =========================
 .DS_Store
 Thumbs.db
+
+
+# =========================
+# Third-party heavy assets
+# =========================
+Assets/Fantasy Skybox FREE/
+Assets/Fantasy Skybox FREE.meta
+
+Assets/FantasyEnvironments/
+Assets/FantasyEnvironments.meta
+
+Assets/TerrainSampleAssets/
+Assets/TerrainSampleAssets.meta
