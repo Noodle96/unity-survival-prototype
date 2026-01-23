@@ -30,6 +30,8 @@ This project uses the following Unity Asset Store packages:
 - Fantasy Skybox FREE (~133MB)
 - FantasyEnvironments (~219MB)
 - TerrainSampleAssets (~1.9GB)
+- Holotna Mountain - Stylized Fantasy Environment (~400MB)
+- Realistic Rock (~150MB)
 
 These assets are not included in the repository.
 Please download them from the Unity Asset Store if you want to run the project.
