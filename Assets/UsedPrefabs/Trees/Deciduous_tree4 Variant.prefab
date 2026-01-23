@@ -55,5 +55,26 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1303695156007376, guid: 31503e1a3ea2c3049b62e31c4c6c9397, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4437824087062429326}
   m_SourcePrefab: {fileID: 100100000, guid: 31503e1a3ea2c3049b62e31c4c6c9397, type: 3}
+--- !u!1 &4341728642625311852 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1303695156007376, guid: 31503e1a3ea2c3049b62e31c4c6c9397, type: 3}
+  m_PrefabInstance: {fileID: 4342677881159763388}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4437824087062429326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4341728642625311852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f316f764114f60349b334d533c7162b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ItemName: Deciduous Tree 04

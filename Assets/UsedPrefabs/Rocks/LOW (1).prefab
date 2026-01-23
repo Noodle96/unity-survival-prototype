@@ -96,6 +96,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4327730457179286243}
   - component: {fileID: 3455513414326399003}
+  - component: {fileID: 3232724557515445880}
   m_Layer: 0
   m_Name: LOW (1)
   m_TagString: Untagged
@@ -142,3 +143,16 @@ CapsuleCollider:
   m_Height: 4.3384323
   m_Direction: 1
   m_Center: {x: -0.016921997, y: -0.9473934, z: 0}
+--- !u!114 &3232724557515445880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4327730457178863299}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f316f764114f60349b334d533c7162b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ItemName: Rock 02

@@ -55,5 +55,26 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 100002, guid: fa6d269e1d4d2b5438b1b46fc6e73352, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -7768474960166152530}
   m_SourcePrefab: {fileID: 100100000, guid: fa6d269e1d4d2b5438b1b46fc6e73352, type: 3}
+--- !u!1 &6066862632377643821 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100002, guid: fa6d269e1d4d2b5438b1b46fc6e73352, type: 3}
+  m_PrefabInstance: {fileID: 6066862632377546127}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-7768474960166152530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6066862632377643821}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f316f764114f60349b334d533c7162b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ItemName: Rock 03

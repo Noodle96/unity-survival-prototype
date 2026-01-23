@@ -55,5 +55,26 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1951202686989992, guid: 5219ccfa3b129f645bfb105ac244e8f5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6311129903599607195}
   m_SourcePrefab: {fileID: 100100000, guid: 5219ccfa3b129f645bfb105ac244e8f5, type: 3}
+--- !u!1 &3367578926301061918 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1951202686989992, guid: 5219ccfa3b129f645bfb105ac244e8f5, type: 3}
+  m_PrefabInstance: {fileID: 3367256194825508278}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6311129903599607195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3367578926301061918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f316f764114f60349b334d533c7162b5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ItemName: Birch Tree 02
